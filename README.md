@@ -4,4 +4,4 @@ TEST BRANCH
 fixB
 # GIT test
 
-error test
+error test + now fixed
