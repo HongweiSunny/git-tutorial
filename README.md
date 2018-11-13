@@ -3,3 +3,5 @@
 TEST BRANCH
 fixB
 # GIT test
+
+error test
